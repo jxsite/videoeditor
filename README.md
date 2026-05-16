@@ -1,4 +1,4 @@
-# 🎬 雷神极速剪辑器 (Auto-Editor Ultimate GUI)
+# 🎬雷神视频无声片段剪辑器 (Auto-Editor Ultimate GUI)
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
