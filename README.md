@@ -26,7 +26,7 @@
 
 ## 📥 下载与安装 (普通用户)
 
-1. 前往右侧的 **[Releases](#)** 页面（请在这里放上你的 Releases 链接）。
+1. 前往右侧的 **[Releases](#)** 页面（https://github.com/jxsite/videoeditor/releases/tag/%E9%9B%B7%E7%A5%9E%E8%A7%86%E9%A2%91%E6%97%A0%E5%A3%B0%E7%89%87%E6%AE%B5%E5%89%AA%E8%BE%91%E5%99%A8v1.0）。
 2. 下载最新版本的 `雷神极速剪辑器_vX.X.zip`。
 3. 解压到任意目录，**双击 `ui_auto_editor.exe`** 即可自动在浏览器中打开图形界面。
 
